@@ -17,3 +17,8 @@ body{
     width: 100;
     font-size: 14;
 }
+
+canvas{
+    border: 5 solid rgb(207, 157, 28);
+    border-radius: 27%;
+}
